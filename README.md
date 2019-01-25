@@ -5,13 +5,14 @@
 ちなみに私がおべんつよしているテキストは[これだよ！](https://www.amazon.co.jp/PHP%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%85%A5%E9%96%80%E6%95%99%E5%AE%A4-%E4%BD%BF%E3%81%88%E3%82%8B%E5%8A%9B%E3%81%8C%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F%E3%80%81%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%82-%E5%B0%8F%E5%8E%9F-%E9%9A%86%E7%BE%A9/dp/4798153370/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= "てきすと！！！") ツタヤで2380円(+税)だったよ！！！！すごい！！やすい！！すき！！！
 ## もくじ
 <dl>
-  <dt>001_Hello_PHP</dt>
+  <dt>001_Hello_PHP (2019/01/25)</dt>
   <dd>PHPの初期の初期だで。HelloWorldとか変数の使い方とかある.</dd>
-  <dt>002_data_send</dt>
+  <dt>002_data_send (2019/01/25)</dt>
   <dd>データを他のPHPファイルに渡す練習やで。</dd>
-  <dt>003_judge</dt>
+  <dt>003_judge (2019/01/25)</dt>
   <dd>if文、switch文の基本的な構文の練習. バリデーション機能をつけたり…</dd>
-  
+  <dt>004_loop (2019/01/26)</dt>
+  <dd>for文やwhile文など…… ここの"birth_form.php"がプルダウンメニューにならないです……助けて……(´・ω・｀)</dd>
   
   <dt>Coming Soon…</dt>
 </dl>  

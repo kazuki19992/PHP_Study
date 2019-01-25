@@ -12,7 +12,7 @@
   <dt>003_judge (2019/01/25)</dt>
   <dd>if文、switch文の基本的な構文の練習. バリデーション機能をつけたり…</dd>
   <dt>004_loop (2019/01/26)</dt>
-  <dd>for文やwhile文など…… ここの"birth_form.php"がプルダウンメニューにならないです……助けて……(´・ω・｀)</dd>
+  <dd>for文やwhile文など…… ここの"birth_form.php"がプルダウンメニューにならなくて泣きそう……(´・ω・｀)</dd>
   
   <dt>Coming Soon…</dt>
 </dl>  
